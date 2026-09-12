@@ -1,0 +1,85 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+df_success_piv|stem|1536ef4424838d55|ee0d8fafa956f112|16e933e4dafbe24a|1509334841||t20649.6861534636s|s1614b|1614|rds|local|vector|||0.01||
+df_ems_piv|stem|998e1c4be3615ed5|953bace365805513|f98598004ff8929a|2118793564||t20649.6893085814s|s3679b|3679|rds|local|vector|||0.01||
+df_ems_summary|stem|9281821b712d0a59|d52252372669d4e7|f98598004ff8929a|871242176||t20649.6893090374s|s2384b|2384|rds|local|vector|||0||
+data_file_name|stem|2aec8a4ebf759a0c|18531011d36deddf|2c530c1562a7fbd1|1663403401|data/putting.csv|t20649.6924920535s|s50922b|50922|file|local|vector|||3.66|le package 'dplyr' a été compilé avec la version R 4.5.2. le package 'fmsb' a été compilé avec la version R 4.5.3. le package 'janitor' a été compilé avec la version R 4.5.2. le package 'factoextra' a été compilé avec la version R 4.5.2. le package 'ggplot2' a été compilé avec la version R 4.5.2. le package 'flextable' a été compilé avec la version R 4.5.2. le package 'ggalluvial' a été compilé avec la version R 4.5.2. le package 'gtsummary' a été compilé avec la version R 4.5.2. le package 'hopkins' a été compilé avec la version R 4.5.2. le package 'lcmm' a été compilé avec la version R 4.5.3. le package 'magick' a été compilé avec la version R 4.5.3. le package 'officer' a été compilé avec la version R 4.5.2. le package 'patchwork' a été compilé avec la version R 4.5.2. le package 'skimr' a été compilé avec la version R 4.5.2. le package 'stringr' a été compilé avec la version R 4.5.2. le package 'tidyr' a été compilé avec la version R 4.5.2|
+df|stem|3c5fc4be503c30fb|7f7cb3aeb530c138|5a350f682a4f29b7|1719518045||t20649.6928332502s|s21720b|21720|rds|local|vector|||0.77||
+df_success|stem|4ad41135cc3f0630|6548694308170ab5|9a81839fe7b1a1b4|-207212612||t20649.6928339483s|s1472b|1472|rds|local|vector|||0||
+df_ems|stem|7e8cde4c86e3bebf|a881d556e5a59bad|9a81839fe7b1a1b4|1254666250||t20649.6928344137s|s3275b|3275|rds|local|vector|||0||
+df_sims|stem|0ae07cdfa14b3ed8|c21b7cd6b4436441|9a81839fe7b1a1b4|825477131||t20649.6928348326s|s17465b|17465|rds|local|vector|||0||
+df_sims_piv|stem|2855876003fc572c|8940cafffb0d7e1b|1b9523e28c7f2620|627161839||t20649.6928353974s|s15350b|15350|rds|local|vector|||0||
+gg_ems_raw_group|stem|f4182527ee42d07d|c64d0614bee4a34f|3a263002a0dd77af|265846712||t20649.6928378652s|s332285b|332285|rds|local|vector|||0.08||
+gg_ems_raw_indiv|stem|a82ec406efa67ec6|0ea6eedf1aee7d81|3a263002a0dd77af|327654775||t20649.6928399109s|s266227b|266227|rds|local|vector|||0.03||
+df_ems_summary_scaled|stem|b3d828a5a32282a0|cd1f802a0a99ee77|6a7af95be4f08621|-1087410992||t20649.6928401794s|s1862b|1862|rds|local|vector|||0||
+gg_ems_summaries|stem|ae6c0db993e278e3|c6146b146ba04232|874a249211bd3b1e|-233624696||t20649.6928568253s|s2415466b|2415466|rds|local|vector|||0.39||
+hopkins_stat|stem|fbeb43062aaa98a1|7c0f01a393fa8a8a|a409aacf2141ce8b|672422226||t20649.6928583963s|s55b|55|rds|local|vector|||0.05||
+gg_dist|stem|39ab11d0297ad265|4a116c6d05be30ec|a409aacf2141ce8b|1735265504||t20649.6928623323s|s642613b|642613|rds|local|vector|||0.24|`aes_string()` was deprecated in ggplot2 3.0.0. ℹ Please use tidy evaluation idioms with `aes()`. ℹ See also `vignette('ggplot2-in-packages')` for more information. ℹ The deprecated feature was likely used in the factoextra package.   Please report the issue at <https://github.com/kassambara/factoextra/issues>.|
+gg_pca|stem|d67870d628bd88af|b2361e2e4226be81|a409aacf2141ce8b|82838788||t20649.692888991s|s4108522b|4108522|rds|local|vector|||0.49|Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0. ℹ Please use `linewidth` instead. ℹ The deprecated feature was likely used in the ggpubr package.   Please report the issue at <https://github.com/kassambara/ggpubr/issues>.|
+gg_cluster_determination|stem|30352e1617ba57bc|78a75e05804802e4|a409aacf2141ce8b|-1588473608||t20649.6974256773s|s4087940b|4087940|rds|local|vector|||389.94||
+sect_properties2|stem|21f867688493986b|1950ac05b7d0b967|2c530c1562a7fbd1|410465273||t20649.8914211686s|s298b|298|rds|local|vector|||2.91|le package 'dplyr' a été compilé avec la version R 4.5.2. le package 'fmsb' a été compilé avec la version R 4.5.3. le package 'janitor' a été compilé avec la version R 4.5.2. le package 'factoextra' a été compilé avec la version R 4.5.2. le package 'ggplot2' a été compilé avec la version R 4.5.2. le package 'flextable' a été compilé avec la version R 4.5.2. le package 'ggalluvial' a été compilé avec la version R 4.5.2. le package 'gtsummary' a été compilé avec la version R 4.5.2. le package 'hopkins' a été compilé avec la version R 4.5.2. le package 'lcmm' a été compilé avec la version R 4.5.3. le package 'magick' a été compilé avec la version R 4.5.3. le package 'officer' a été compilé avec la version R 4.5.2. le package 'patchwork' a été compilé avec la version R 4.5.2. le package 'skimr' a été compilé avec la version R 4.5.2. le package 'stringr' a été compilé avec la version R 4.5.2. le package 'tidyr' a été compilé avec la version R 4.5.2|
+clusters_ems|stem|2d4f1c24208defd1|bf205de797db0621|a409aacf2141ce8b|933987028||t20654.6993414392s|s3769b|3769|rds|local|vector|||0.01||
+gg_pca_ems_clusters|stem|70f609a72f2b9a13|20aa52242046b099|4afa6e2daefb07e1|-602782440||t20654.6993552205s|s1929432b|1929432|rds|local|vector|||0.37||
+df_ems_summary_clust|stem|c1c3b68b581ed58b|ad19afbfeee111ce|68b32ffea1a24ee4|788405610||t20654.6993573446s|s2455b|2455|rds|local|vector|||0||
+gg_ems_summaries_by_clust|stem|45a575b1e53591c0|e9ae56c76ff2c428|4c75b49e778caddc|-492464601||t20654.6993754334s|s2615026b|2615026|rds|local|vector|||0.44||
+df_join|stem|35344afe03163b52|8a9f82fb52790eb2|3a96bad5608821fa|1937769564||t20654.699377295s|s35089b|35089|rds|local|vector|||0.08||
+gg_ems_profiles_line|stem|b7fcc558d540cd8c|18571dbb635db028|7c5225268eaec792|645241924||t20654.6993957086s|s243023b|243023|rds|local|vector|||0.06|Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0. ℹ Please use `linewidth` instead.|
+tab_sims|stem|e0aab8acb8f65a59|442a1f38edefbb2d|5c13acf21b721622|-1700685009||t20654.6995434725s|s1113034b|1113034|rds|local|vector|||9.56||
+fig_gg_ems_profiles_line|stem|60db10c1299ee0fa|a48baafafb51bc0f|1114ee09bbf7291a|1354764523|out/gg_ems_profiles_line.png|t20654.6995630338s|s2520650b|2520650|file|local|vector|||0.7||
+doc_tab_sims|stem|8bf891da48148af6|a9285da5627534fa|ffe7b59ae19f39f9|2085197881||t20654.7013841361s|s70b|70|rds|local|vector|||1.74||
+tab_ems_by_clust|stem|f24a54030ed5e067|51396df46c5347cc|7c5225268eaec792|382682721||t20658.5491475136s|s45141b|45141|rds|local|vector|||3.85||
+gg_ems_profiles_radar|stem|24dd2fa973e87898|125901a3e7637d4b|7c5225268eaec792|-421011969|out/gg_ems_profiles_radar.png|t20658.5491640861s|s42995b|42995|file|local|vector|||1.25||
+df_join_modified|stem|bced450e739f2889|2e21da485e7ec3ce|5c13acf21b721622|-1677734621||t20658.549167039s|s34833b|34833|rds|local|vector|||0.02||
+doc_tab_ems_by_clust|stem|e85b504bd9208c4c|88fc64c769a9cdee|4bf4f170de4120c6|-1258252836|out/tab_ems_by_clust.docx|t20658.5491997113s|s14151b|14151|file|local|vector|||2.7||
+gg_sims_trials|stem|bd03d3397ff76db6|76f2c05bac8eedc0|bae244b840fda463|-308190384||t20658.5750439751s|s4773165b|4773165|rds|local|vector|||1.89|Duplicated aesthetics after name standardisation: width. Duplicated aesthetics after name standardisation: width. Duplicated aesthetics after name standardisation: width. Duplicated aesthetics after name standardisation: width. Duplicated aesthetics after name standardisation: width. Duplicated aesthetics after name standardisation: width. Duplicated aesthetics after name standardisation: width|
+fig_gg_sims_trials|stem|2d601167e276eeeb|821d0c83981f4246|7fb8ebd294d08466|1106018910|out/gg_sims_trials.png|t20658.5753551345s|s5012921b|5012921|file|local|vector|||23.97|Removed 1 row containing non-finite outside the scale range (`stat_half_ydensity()`).. Removed 1 row containing non-finite outside the scale range (`stat_boxplot()`).. Removed 1 row containing non-finite outside the scale range (`stat_summary()`).. Removed 1 row containing non-finite outside the scale range (`stat_summary()`).. Removed 1 row containing non-finite outside the scale range (`stat_summary()`).. Removed 1 row containing missing values or values outside the scale range (`geom_line()`).. Removed 1 row containing missing values or values outside the scale range (`geom_point_sorted()`).. Removed 1 row containing non-finite outside the scale range (`stat_half_ydensity()`).. Removed 1 row containing non-finite outside the scale range (`stat_boxplot()`).. Removed 1 row containing non-finite outside the scale range (`stat_summary()`).. Removed 1 row containing non-finite outside the scale range (`stat_summary()`).. Removed 1 row containing non-finite outside the scale range (`stat_summary()`).. Removed 1 row containing missing values or values outside the scale range (`geom_line()`).. Removed 1 row containing missing values or values outside the scale range (`geom_point_sorted()`).. Removed 1 row containing non-finite outside the scale range (`stat_half_ydensity()`).. Removed 1 row containing non-finite outside the scale range (`stat_boxplot()`).. Removed 1 row containing non-finite outside the scale range (`stat_summary()`).. Removed 1 row containing non-finite outside the scale range (`stat_summary()`).. Removed 1 row containing non-finite outside the scale range (`stat_summary()`).. Removed 1 row containing missing values or values outside the scale range (`geom_line()`).. Removed 1 row containing missing values or values outside the scale range (`geom_point_sorted()`).|
+gg_sims_am_by_clust|stem|722a552b28f10077|28016fed7fdb235b|5c13acf21b721622|401770992||t20691.8337174602s|s419027b|419027|rds|local|vector|||0.07||
+gg_sims_cm_by_clust|stem|3311aae2f221d124|92e28f2a6cd5ef21|5c13acf21b721622|1993681140||t20691.9247158177s|s419026b|419026|rds|local|vector|||0.05||
+fig_gg_sims_am_by_clust|stem|e84282e098867f80|8697e62ceadecb25|c6fb14ab1579e711|-222655553|out/gg_sims_am_by_clust.png|t20691.9381331786s|s137083b|137083|file|local|vector|||1.25|Removed 1 row containing non-finite outside the scale range (`stat_summary()`).. Removed 1 row containing non-finite outside the scale range (`stat_summary()`).. Removed 1 row containing non-finite outside the scale range (`stat_summary()`).|
+fig_gg_sims_cm_by_clust|stem|668d1b6eea1fa052|a23a124600048298|b950e4b6291801da|-1509151949|out/gg_sims_cm_by_clust.png|t20691.9381412605s|s136804b|136804|file|local|vector|||0.61||
+model_MA_1e|stem|a4878863cc9affe2|dd6271e3eddeb276|188cdddaa4434506|-943689396||t20694.5957997272s|s88961b|88961|rds|local|vector|||1.42||
+model_MC_1a|stem|99d9848c6005fdb5|70c3e27cd4624a70|188cdddaa4434506|1646538455||t20694.5958031606s|s86469b|86469|rds|local|vector|||0.16||
+model_MC_1b|stem|90871a1c2f9fc65f|5c67bf89092f5606|188cdddaa4434506|-1655540931||t20694.5961114142s|s86632b|86632|rds|local|vector|||0.23||
+model_MC_1c|stem|21db8ac879b4e278|855ed619290b8bda|188cdddaa4434506|-61862148||t20694.5961167169s|s86475b|86475|rds|local|vector|||0.36||
+model_MC_1d|stem|cf7493ae75934290|b5cbcb672f54be38|188cdddaa4434506|-960185958||t20694.5961237499s|s87774b|87774|rds|local|vector|||0.55||
+model_MC_1e|stem|93a1fb891a138754|36f5ec33ed8f5604|188cdddaa4434506|-2099889736||t20694.596143001s|s89288b|89288|rds|local|vector|||1.6||
+model_MC_1f|stem|b914ce54ed76e69c|26eb598f8c6d7ba8|188cdddaa4434506|907872044||t20694.5968913901s|s87691b|87691|rds|local|vector|||64.58||
+model_MA_1a|stem|a1fcef91856914c5|7ed034046bee2013|188cdddaa4434506|1089611217||t20694.5968985494s|s86249b|86249|rds|local|vector|||0.2||
+model_MA_1b|stem|58d157103b1ba58e|7c13fa0504c6b819|188cdddaa4434506|-1137580758||t20694.596901381s|s86223b|86223|rds|local|vector|||0.19||
+model_MA_1c|stem|a3f8aa5910a4e3a3|9160456402d3b3c8|188cdddaa4434506|-244697224||t20694.5969065705s|s86408b|86408|rds|local|vector|||0.33||
+model_MA_1d|stem|a0d790f44f47173e|4bf72042e063d983|188cdddaa4434506|157467320||t20694.5969115848s|s87444b|87444|rds|local|vector|||0.42||
+model_MA_1f|stem|8aee630687500914|c6531136f3ebabfe|188cdddaa4434506|969749965||t20694.5983079497s|s87720b|87720|rds|local|vector|||120.59||
+model_MA_10|stem|eb4d8d5e5c783c31|32b639b66f8c4dc0|188cdddaa4434506|828955044||t20694.929578928s|s298344b|298344|rds|local|vector|||0.33||
+model_MA_11|stem|d079f636579dcd55|7bbdf5f01657ad34|188cdddaa4434506|768187576||t20694.9295893044s|s313249b|313249|rds|local|vector|||0.77||
+model_MC_10|stem|f679df29960e0b99|767710a262415e7b|188cdddaa4434506|-24533337||t20694.9295940132s|s272977b|272977|rds|local|vector|||0.28||
+model_MC_11|stem|c28ea2cb56d54786|a304754f2e0282f5|188cdddaa4434506|1303588126||t20694.929603126s|s286008b|286008|rds|local|vector|||0.67||
+model_MC_6|stem|1255281d5dc871eb|fc3975b1c190a7af|188cdddaa4434506|1178952140||t20694.929605618s|s252238b|252238|rds|local|vector|||0.07||
+model_MC_7|stem|ab491575cfa104b2|d59fa51b922b5c0a|188cdddaa4434506|-1604972589||t20694.9296079186s|s255206b|255206|rds|local|vector|||0.06||
+model_MC_8|stem|0d3e441385ed6a0f|f0e56e41af95a507|188cdddaa4434506|-347494687||t20694.9296110508s|s258927b|258927|rds|local|vector|||0.14||
+model_MC_9|stem|9272e89de731fc50|14cc5197a0b84d34|188cdddaa4434506|1686751497||t20694.929613157s|s260731b|260731|rds|local|vector|||0.13||
+model_MA_6|stem|b03d75585f40d8f8|cadcb27c1c3c6d8f|188cdddaa4434506|-1287995153||t20694.9296150837s|s262475b|262475|rds|local|vector|||0.08||
+model_MA_7|stem|0a82b7c154cbac80|b23ed0ddcef87a21|188cdddaa4434506|1050998345||t20694.9296176052s|s266023b|266023|rds|local|vector|||0.08||
+model_MA_8|stem|c3a17fff7a333983|aba1841cd7af11a1|188cdddaa4434506|88400658||t20694.9296204263s|s269617b|269617|rds|local|vector|||0.09||
+model_MA_9|stem|36926974b9496965|16cabfbdef6a6e13|188cdddaa4434506|192335661||t20694.9296227815s|s287480b|287480|rds|local|vector|||0.11||
+gg_best_MA_lmm|stem|f1e19f308a889cbd|2b6ac07da22410f3|0982ca41fb7e751c|1178438894||t20694.945064143s|s1424803b|1424803|rds|local|vector|||0.56||
+gg_best_MC_lmm|stem|25c5d91f71781b05|659115cbf9046918|c372a6f237fb7bcb|1165511463||t20694.9450766878s|s1262536b|1262536|rds|local|vector|||0.37||
+fig_gg_best_MA_lmm|stem|36396edd45e19de0|29e66ce3449ea5a7|f400c0af4dc83f56|726837899|out/gg_best_MA_lmm.png|t20694.9450926007s|s128594b|128594|file|local|vector|||1.11||
+fig_gg_best_MC_lmm|stem|295f8c81bbbb5c54|783eb20e25b5a155|34df14d53ff4e328|594541767|out/gg_best_MC_lmm.png|t20694.9450994758s|s117323b|117323|file|local|vector|||0.4||
+model_MA_2|stem|222b447c2a7bb263|48da94c3d9a80c6c|493b5222f9f7d406|-1079580446||t20695.2298678746s|s117710b|117710|rds|local|vector|||369.23||
+model_MA_3|stem|d84d50cbcca45eaf|e39f3fb080f002f3|493b5222f9f7d406|2097957112||t20695.2368360193s|s141224b|141224|rds|local|vector|||601.3||
+model_MA_4|stem|be902287295f3862|b9f0fdfa360efec7|493b5222f9f7d406|-478197429||t20695.247948474s|s164177b|164177|rds|local|vector|||959.36||
+model_MA_5|stem|34f019c373eba541|916e654e8ad633ff|493b5222f9f7d406|-348899154||t20695.268928298s|s188335b|188335|rds|local|vector|||1812.57||
+model_MC_2|stem|ec466475d8e58843|f4863409e697b48f|60dfbbdb9ef50f26|-1606632043||t20695.2783129519s|s117538b|117538|rds|local|vector|||810.17||
+model_MC_3|stem|13acf54c2d3f0411|e1eb4301fdbd1ceb|60dfbbdb9ef50f26|1011695333||t20695.2953498581s|s141989b|141989|rds|local|vector|||1471.2||
+model_join_clust_MA|stem|1c74de1a2bf084bc|d1a5f44518df8b8f|866fa49046fd3e73|-373981962||t20695.3368287273s|s615b|615|rds|local|vector|||2.3||
+gg_best_MA_lcmm|stem|00b844d93df8d972|9b72cce04306ccd7|4b31638b0f787687|1201865768||t20695.3368336903s|s744913b|744913|rds|local|vector|||0.11||
+fig_gg_best_MA_lcmm|stem|c1ea8f167ed7f477|6766a6e24f53eaa1|fc6d89988613430b|-57206487|out/gg_best_MA_lcmm.png|t20695.3368447249s|s158455b|158455|file|local|vector|||0.7||
+model_MC_4|stem|943f231cfb803ec2|ea002a1f3bc00260|60dfbbdb9ef50f26|-604636720||t20695.6002533502s|s164382b|164382|rds|local|vector|||2568.35||
+model_MC_5|stem|6ca9e3f521d11fb9|aaa05ce6cb6fb568|60dfbbdb9ef50f26|1878313804||t20695.6311224869s|s188303b|188303|rds|local|vector|||2666.95||
+tab_mod_lmm_am|stem|49701aeeea6b3959|6c86776ef6110b40|acd7e92c29f5c317|1117200832||t20695.6312850839s|s6764b|6764|rds|local|vector|||3.78||
+doc_tab_mod_lmm_cm|stem|0fb8079c1e4d5006|154e922c9ceb3377|b32c3104d7ab3954|-851348417|out/tab_mod_lmm_cm.docx|t20695.6313016302s|s15213b|15213|file|local|vector|||1.28||
+doc_tab_mod_lmm_am|stem|ad64607bb934f217|814c8031d037ff68|669ec4ca0a5b8d9d|1223683418|out/tab_mod_lmm_am.docx|t20695.6313166082s|s15238b|15238|file|local|vector|||1.25||
+report|stem|1681748023b4d699|69187551e43218f8|a85428b4d4b85f77|787668912|report.html*report.qmd*styles.css|t20695.6326020411s|s6340238b|6340238|file|local|vector|||97.46||
+get_ems_rainclouds|function|4aec52fde653d8f6
+.Random.seed|object|9a44579510e2d7b3
+get_sims_rainclouds|function|84e9f2b3d68e12ee
+tab_mod_lmm_cm|stem|06e1e44c6c9bbd2a|0a5ae29bfe8469aa|5ac781d5d2ae6653|804332792||t20695.6907030216s|s6729b|6729|rds|local|vector|||5.75||
